@@ -13,7 +13,7 @@ class AndroidDriver
             browserName: '',
             deviceName: 'Pixel_2_API_28',
             udid: 'emulator-5554',
-            app: 'D:\Interview\Wunder Mobility\Assignment\bdd_appium_android\lib\apk\ContactManager.apk',
+            app: 'D:\....\Assignment\bdd_appium_android\lib\apk\ContactManager.apk',
             appActivity: 'com.example.android.contactmanager.ContactManager',
             appPackage: 'com.example.android.contactmanager'
         }
